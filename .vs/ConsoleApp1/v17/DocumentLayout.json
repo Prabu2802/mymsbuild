@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjectNet\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D0363D-CFCC-4E2D-BC7A-44FEB57267DC}|UnitTestProject1\\UnitTestProject1.vbproj|c:\\projectnet\\consoleapp1\\unittestproject1\\unittest1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{79D0363D-CFCC-4E2D-BC7A-44FEB57267DC}|UnitTestProject1\\UnitTestProject1.vbproj|solutionrelative:unittestproject1\\unittest1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB9537C-2237-4A58-AD30-E6CC5CF815F2}|ConsoleApp1\\ConsoleApp1.vbproj|c:\\projectnet\\consoleapp1\\consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AEB9537C-2237-4A58-AD30-E6CC5CF815F2}|ConsoleApp1\\ConsoleApp1.vbproj|solutionrelative:consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.vb",
+              "DocumentMoniker": "C:\\ProjectNet\\ConsoleApp1\\UnitTestProject1\\UnitTest1.vb",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.vb",
+              "ToolTip": "C:\\ProjectNet\\ConsoleApp1\\UnitTestProject1\\UnitTest1.vb",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T08:14:25.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\ProjectNet\\ConsoleApp1\\ConsoleApp1\\Program.vb",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.vb",
+              "ToolTip": "C:\\ProjectNet\\ConsoleApp1\\ConsoleApp1\\Program.vb",
+              "RelativeToolTip": "ConsoleApp1\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T08:13:26.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
